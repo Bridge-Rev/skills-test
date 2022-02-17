@@ -6,7 +6,7 @@ This skills test is designed to test your basic design and development skills. T
 
 2.  Install and SetUp [HubSpot CLI](https://developers.hubspot.com/docs/cms/developer-reference/local-development-cli)
 
-3.  Fork and Clone the [CMS Theme Boilerplate](https://github.com/HubSpot/cms-theme-boilerplate)
+3.  Fork the [CMS Theme Boilerplate](https://github.com/HubSpot/cms-theme-boilerplate)
 
 4.  Upload the Boilerplate to your Sandbox Portal
 
